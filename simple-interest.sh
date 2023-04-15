@@ -6,7 +6,7 @@
 
     Author: kamal19912
    # Additional Authors:
-     <your GitHub username>
+   #  <your GitHub username>
    # Input:
    # p, principal amount
    # t, time period in years
